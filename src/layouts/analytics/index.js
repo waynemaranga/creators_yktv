@@ -55,8 +55,8 @@ function Analytics() {
                 count={281}
                 percentage={{
                   color: "success",
-                  amount: "+55%",
-                  label: "than lask week",
+                  amount: "+55%", // variable here
+                  label: "than lask week", // variable here
                 }}
               />
             </MDBox>
@@ -68,8 +68,8 @@ function Analytics() {
                 title="Today's Users"
                 count="2,300"
                 percentage={{
-                  color: "success",
-                  amount: "+3%",
+                  color: "success", // variable here
+                  amount: "+3%", // variable here
                   label: "than last month",
                 }}
               />
@@ -83,8 +83,8 @@ function Analytics() {
                 title="Revenue"
                 count="34k"
                 percentage={{
-                  color: "success",
-                  amount: "+1%",
+                  color: "success", // variable here
+                  amount: "+1%", // variable here
                   label: "than yesterday",
                 }}
               />
