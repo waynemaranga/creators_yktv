@@ -1,0 +1,3 @@
+- content data is organised into tables
+  - tables are organised into [](./src/layouts/content/data/)
+  - 
